@@ -156,7 +156,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="180"/>
         <source>Battery charge (icon)</source>
-        <translation>Carag da bateria (ícone)</translation>
+        <translation>Carga da bateria (ícone)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="181"/>
